@@ -15,11 +15,11 @@
 ### 👨‍🎓 About Me
 
 - 🎓 3rd Year BSc (Hons) in Computing @ **LNBTI** (University of Greenwich – UK)
-- 🛠️ Full-Stack Developer working with **Laravel**, **Flutter**, and **Firebase**
-- 🍼 Building **CraddleSoft** – digitizing maternal care for better health services in Sri Lanka
-- 💡 Exploring **AI**, **IoT**, **Big Data**, and **.NET development**
-- 🧠 Currently learning **Python** and **.NET Core**
-- 💬 Open to collaborative tech projects that create real-world value
+- 🛠️ Passionate full-stack developer skilled in **Laravel**, **Flutter**, and **Firebase**
+- 🍼 Creator of **CraddleSoft** – transforming maternal care in Sri Lanka with tech
+- 🌱 Currently learning **React**, **MERN Stack**, **.NET Core**, **PostgreSQL**, and **Python**
+- 🔍 Exploring **AI**, **IoT**, and **Big Data** for real-world solutions
+- 💬 Always open to tech collaborations and impactful projects
 
 ---
 
@@ -29,38 +29,46 @@
 `C` `C#` `Java` `PHP` `Python` `JavaScript` `SQL`
 
 **Web Development**  
-`HTML` `CSS` `Laravel` `Blade` `.NET (learning)`
+`HTML` `CSS` `Laravel` `Blade` `React` `Node.js (learning)` `Express.js (learning)` `.NET (learning)`
 
 **Mobile Development**  
 `Flutter` `Firebase`
 
 **Databases**  
-`MySQL` `PostgreSQL (learning)`
+`MySQL` `PostgreSQL (learning)` `MongoDB (learning)`
 
 **Tools & Platforms**  
-`Git & GitHub` `Netlify` `Figma` `Firebase Console` `Visual Studio`
+`Git & GitHub` `Netlify` `Figma` `Firebase Console` `Visual Studio` `VS Code`  
 
 ---
 
 ### 🔥 Projects
 
 - 🍼 **CraddleSoft**  
-  *Laravel + Flutter system to digitize maternal healthcare services.*  
+  *Full-stack maternal care platform (Laravel + Flutter)*  
   🔗 [Coming soon](https://github.com/yehan-lakwindu/craddlesoft)
 
+- 🍨 **Ice Cream Website**  
+  *Colorful ice cream brand site with React & Netlify*  
+  🔗 [Visit Site](https://ahinsaicecream.netlify.app)
+
+- 🧁 **Fooderr – Bakery Website**  
+  *Frontend-only bakery site built with React*  
+  🔗 [Visit Site](https://fooderr.netlify.app)
+
 - 🛒 **M.K.W Grocery Website**  
-  *Static website built with HTML & CSS for a local store.*  
-  🔗 [Visit Live](https://mkwgrocery.netlify.app)
+  *Static front-end site using HTML/CSS*  
+  🔗 [Visit Site](https://mkwgrocery.netlify.app)
 
 - 🧠 **Passport Automation System**  
-  *Java-based system to automate passport processing (Eclipse IDE)*
+  *Java-based OOP project developed in Eclipse*
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 LinkedIn: [yehan-lakwindu](https://www.linkedin.com/in/yehan-lakwindu/)
-- 📧 Email: yehanlakvindurcg@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/yehan-lakwindu/)
+- 📧 yehanlakvindurcg@gmail.com
 - 🌐 Portfolio: *Coming Soon*
 
 ---
