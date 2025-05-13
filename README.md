@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm M.K. Yehan Lakwindu</h1>
-<h3 align="center">📍 Undergraduate | Full-Stack Developer | IoT & AI Enthusiast</h3>
+# Hi 👋, I'm M.K. Yehan Lakwindu
+### 📍 Undergraduate | Full-Stack Developer | IoT & AI Enthusiast
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yehan-lakwindu/" target="_blank">
@@ -16,10 +16,10 @@
 
 - 🎓 3rd Year BSc (Hons) in Computing @ **LNBTI** (University of Greenwich – UK)
 - 🛠️ Passionate full-stack developer skilled in **Laravel**, **Flutter**, and **Firebase**
-- 🍼 Creator of **CraddleSoft** – transforming maternal care in Sri Lanka with tech
-- 🌱 Currently learning **React**, **MERN Stack**, **.NET Core**, **PostgreSQL**, and **Python**
-- 🔍 Exploring **AI**, **IoT**, and **Big Data** for real-world solutions
-- 💬 Always open to tech collaborations and impactful projects
+- 🍼 Creator of **CraddleSoft** – transforming maternal care in Sri Lanka with innovative tech
+- 🌱 Currently expanding my skills in **React**, **MERN Stack**, **.NET Core**, **PostgreSQL**, and **Python**
+- 🔍 Exploring **AI**, **IoT**, and **Big Data** to develop real-world tech solutions
+- 💬 Open to collaborations on tech projects that drive positive impact
 
 ---
 
@@ -38,30 +38,31 @@
 `MySQL` `PostgreSQL (learning)` `MongoDB (learning)`
 
 **Tools & Platforms**  
-`Git & GitHub` `Netlify` `Figma` `Firebase Console` `Visual Studio` `VS Code`  
+`Git & GitHub` `Netlify` `Figma` `Firebase Console` `Visual Studio` `VS Code`
 
 ---
 
 ### 🔥 Projects
 
-- 🍼 **CraddleSoft**  
-  *Full-stack maternal care platform (Laravel + Flutter)*  
-  🔗 [Coming soon](https://github.com/yehan-lakwindu/craddlesoft)
+#### 🍼 **CraddleSoft**
+A full-stack maternal care platform designed to empower midwives and expectant mothers through digital health records, scheduling, and automated notifications.
+- 🔗 [GitHub Repo](https://github.com/YehanLakwindu/-A-WEB-BASED-MATERNAL-CARE-SYSTEM-FOR-MIDWIVES-AND-EXPECTANT-MOTHERS-IN-SRI-LANKA)
 
-- 🍨 **Ice Cream Website**  
-  *Colorful ice cream brand site with React & Netlify*  
-  🔗 [Visit Site](https://ahinsaicecream.netlify.app)
+#### 🍨 **Ice Cream Website**  
+A colorful, interactive site for an ice cream brand built with React & Netlify.
+- 🔗 [Visit Site](https://ahinsaicecream.netlify.app)
 
-- 🧁 **Fooderr – Bakery Website**  
-  *Frontend-only bakery site built with React*  
-  🔗 [Visit Site](https://fooderr.netlify.app)
+#### 🧁 **Fooderr – Bakery Website**  
+A frontend-only bakery site created with React.
+- 🔗 [Visit Site](https://fooderr.netlify.app)
 
-- 🛒 **M.K.W Grocery Website**  
-  *Static front-end site using HTML/CSS*  
-  🔗 [Visit Site](https://mkwgrocery.netlify.app)
+#### 🛒 **M.K.W Grocery Website**  
+A static front-end grocery website using HTML/CSS.
+- 🔗 [Visit Site](https://mkwgrocery.netlify.app)
 
-- 🧠 **Passport Automation System**  
-  *Java-based OOP project developed in Eclipse*
+#### 🧠 **Passport Automation System**  
+A Java-based OOP project developed in Eclipse.
+- 🔗 [GitHub Repo](https://github.com/YehanLakwindu/passport-automation-system)
 
 ---
 
