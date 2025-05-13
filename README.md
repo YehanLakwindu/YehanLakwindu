@@ -1,5 +1,5 @@
 # Hi 👋, I'm M.K. Yehan Lakwindu
-![profile-pic](https://avatars.githubusercontent.com/u/56958200?v=4)
+![profile-pic](https://github.com/user-attachments/assets/5f57f5e0-e717-4554-a2f0-08773a6d33c2)
 
 ### 📍 Undergraduate | Full-Stack Developer | IoT & AI Enthusiast
 
