@@ -37,7 +37,7 @@
 `Flutter` `Firebase`
 
 **Databases**  
-`MySQL` `PostgreSQL (learning)` `MongoDB (learning)`
+`MySQL` `PostgreSQL ` `MongoDB (learning)`
 
 **Tools & Platforms**  
 `Git & GitHub` `Netlify` `Figma` `Firebase Console` `Visual Studio` `VS Code`
